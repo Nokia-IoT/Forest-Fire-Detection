@@ -26,5 +26,5 @@ where, k = 5.397 x 10^-3 ( RH per ppm per degree)
 ## Execution
 - Download the repository.
 - Install Arduino IDE. 
-- Integrate the hardare.
+- Integrate the hardware.
 - Connect the device to the system an run the code.
