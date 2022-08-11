@@ -1,6 +1,6 @@
 # IoT Based Forest Fire Detection System
 ## Project : Code-Red
-#### [Download](https://github.com/PankajGrg/IoT-ForestFireDetection.git)
+#### [Download](https://github.com/Nokia-IoT/Forest-Fire-Detection)
 A wildfire, forest fire, bushfire, wild-land fire or rural fire is an unplanned, uncontrolled fire in an area of combustible vegetation starting in rural and urban areas. The approach addresses the need for an early detection of the forest fire before it spreads to a large scale and causes a number of casualties.
 The Device helps in detecting the fire in its initial stages to avoid catastrophic damage and intimidate the authorities at the earliest.
 ##### [Click](https://drive.google.com/file/d/1biDBTwWqfK0Ubjh_4VI0WeSi-aqg2-dI/view?usp=sharing) here to watch the video.
